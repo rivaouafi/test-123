@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>عنوان الخبر</title>
+ <style>
+ body {
+ background-color: green;
+ }
+ header {
+ background-color: blue;
+ color: white;
+ padding: 10px;
+ text-align: center;
+ }
+ footer {
+ background-color: blue;
+ color: white;
+ padding: 10px;
+ text-align: center;
+ }
+ </style>
+</head>
+<body>
+ <header>
+ <h1>عنوان الخبر</h1>
+ <p>الكاتب: ريفا وافي</p>
+ </header>
+ <p>هنا محتوى الصفحة.</p>
+ <footer>
+ <p>جميع الحقوق محفوظة © 2024 عنوان الخبر.</p>
+ </footer>
+</body>
+</html>
